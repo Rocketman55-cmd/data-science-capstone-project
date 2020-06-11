@@ -34,7 +34,7 @@ There is also a jupyter notebook here that shows all of my work related to the t
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at this available [post](https://medium.com/@rocketmaninspace/how-did-location-affect-the-spread-of-the-2013-ebola-outbreak-cad9cbceccaa).
+The main findings of the code can be found at this available [post](https://medium.com/@rocketmaninspace/how-have-obesity-percentages-changed-based-on-year-location-and-sex-98b3a052a135.)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
