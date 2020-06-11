@@ -38,4 +38,4 @@ The main findings of the code can be found at this available [post](https://medi
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset/data).
+You can find the licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016/data?select=obesity-cleaned.csv).
